@@ -1,3 +1,8 @@
 = linglyph
 
 Repository for glyphs for *experimental* new language.
+
+
+
+With *a*, *e*, *o* *i*, *u* and *ä*, *ö*, *ü* there are 8 vocal flavors you could
+add on a consonant.
